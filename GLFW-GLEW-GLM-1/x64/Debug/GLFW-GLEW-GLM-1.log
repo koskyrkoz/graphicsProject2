@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\GLP\GLFW-GLEW-GLM-1\Main.cpp(455,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\GLP\GLFW-GLEW-GLM-1\Main.cpp(505,48): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\GLP\GLFW-GLEW-GLM-1\Main.cpp(558,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\GLP\GLFW-GLEW-GLM-1\Main.cpp(576,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GLP\GLFW-GLEW-GLM-1\Main.cpp(627,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  GLFW-GLEW-GLM-1.vcxproj -> C:\GLP\GLFW-GLEW-GLM-1\x64\Debug\GLFW-GLEW-GLM-1.exe
